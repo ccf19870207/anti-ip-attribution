@@ -2,7 +2,6 @@
 # anti-ip-attribution rule-provider-direct.yaml v0.3.1 24db48a4973b31d718703136cfcc2b3621171f36
 # https://github.com/SunsetMkt/anti-ip-attribution
 # 适用于Clash的Rule Provider功能，详见https://lancellc.gitbook.io/clash/clash-config-file/rule-provider
-payload:
 - DOMAIN-SUFFIX,bilivideo.com,DIRECT
 - DOMAIN-SUFFIX,akamaized.net,DIRECT
 - DOMAIN-SUFFIX,hdslb.com,DIRECT
